@@ -1,0 +1,33 @@
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe.config
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.pdb
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\proje C#\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.pdb
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe.config
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.pdb
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.exe
+C:\Users\user\OneDrive\Masaüstü\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.pdb
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe.config
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.exe
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\bin\Debug\Runtime Broker.pdb
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.AssemblyReference.cache
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.SuggestedBindingRedirects.cache
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Form1.resources
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime_Broker.Properties.Resources.resources
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.GenerateResource.cache
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.csproj.CoreCompileInputs.cache
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.exe
+D:\kkü DERS NOTLARI\3.sınıf güz dönemi\proje 1\1\proje-1\final sürüm\Runtime Broker\Runtime Broker\obj\Debug\Runtime Broker.pdb
